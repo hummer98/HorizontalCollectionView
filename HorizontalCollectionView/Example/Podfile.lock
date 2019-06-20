@@ -1,0 +1,16 @@
+PODS:
+  - HorizontalCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - HorizontalCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  HorizontalCollectionView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HorizontalCollectionView: cdf8ffc2becb946c3b97adddd32bea34a965fde0
+
+PODFILE CHECKSUM: b34e7de12ffa5983ff7edd72daa87d40283df07a
+
+COCOAPODS: 1.7.2

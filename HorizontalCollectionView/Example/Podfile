@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HorizontalCollectionView_Example' do
+  pod 'HorizontalCollectionView', :path => '../'
+
+  target 'HorizontalCollectionView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
